@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: avn5d50uj-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/avn5d50uj-python
